@@ -3,14 +3,19 @@ let secound = first;
 let third = secound ;
 let fourth = third;
 let fifth = fourth;
-let capital = "capital";
+
+let city = "city";
 let country = "country";
+
+let unit = "unit"
+let subjeckt = "subjeckt"
 
 
    console.log(fifth)
-  console.log(capital +" is the capital of great britain" +country)
+
+  console.log(city +   " is the capital of great britain" +country)
   
-  
+  console.log( unit +   "is measure in " + subjeckt )
 
 
 
