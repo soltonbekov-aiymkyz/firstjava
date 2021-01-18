@@ -1,8 +1,9 @@
+
 /*
 let s = +prompt("whats is s?");
 let d = +prompt("whats is d?");
 let v = s / d;
-console.log (`${v}`);
+
 */
 
 /*
@@ -27,20 +28,33 @@ let n = +prompt ('what is n?')
 let a = +prompt ('what is the a?')
 let q = +prompt ('what is the q ?')
 let pas = n*a+q; 
-
 console.log (`${pas}`)
-
 */
-
 let n = +prompt ('what is n?')
 let a = +prompt ('what is the a?')
 let q = +prompt ('what is the q ?')
 let h = +prompt ('what is n?')
-
-
 let pas = n*a+q/h; 
 
+
+
+
+
+console.log (`${v}`);
+
+
+
+
+
+
+
+
+
+
+
+
 console.log (`${pas}`)
+
 
 
 
